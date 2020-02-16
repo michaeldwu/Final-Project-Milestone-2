@@ -14,8 +14,12 @@ Discussing the Pros and Cons of two final projects from prior year's classes.
 ### Hannah Valencia: Analysis of Queen’s Music
 From Class of Fall 2019 
 
+First and foremost, I must commend Ms. Valencia for working on an extremely interesting topic area (espeically to me personally) while doing an exhaustive overview of scraping data from Genius's developer API and sourcing data from Spotify. The lengths in which she went to obtain her data is admirable. One of the major cons however, that I see within this project is that she does not do a very good job of drawing conclusions for the reader. Ms. Valencia merely presents the data in such a fashion where she encourages viewers to draw their own conclusions, but with such an extensive amount of information that she is presenting, it becomes hard for the viewer to piece together any real or meaningful trends. I also feel as though she doesn't do a good enough job introducing why she is doing this project on her home page and telling the story of her project in the introduction to really draw the viewers in.
 
 
 ### Ryan Graff: NBA Statistical Trade Machine
-From Class of Fall 2019 
+From Class of Fall 2019
+
+In terms of Mr. Graff's setup, I really appreciate the "about" page being set as the home page for this website. It does a strong job of centering the viewer on why the creator is doing what he is doing and sets out a few key valuation metrics that will be important for the rest of the website. One small note however, I do wish that he included the trade calculator on his homepage or had a button that linked directly to that page. As is, in terms of the User Experience it is not extremely intuitive for users to immediately understand which tab to go to next. The main reason however, why I chose this final project is because I really admire the interactivity of this website. The actual tab for the "trade calculator" is highly inviting and lures audience members from passivity into real interaction. I do wish the actual format and construction of the trade calculator was done a bit better (there are some pretty rigid formats for the trades to be evaluated set in place - e.g. all trades must have 3 picks and 2 players involved) and I also do wish that the actual evaluator was working so that viewers could see the calculator's output. For some additional cons, I do think that some of the plots and data presented in later tabs could be presented in a more user-friendly format (as a lot of the terms are geared towards those who have a strong background in sports analytical terminology). But the main takeaway that I can appreciate from this project is his creativity in making the website interactive.
+
 
