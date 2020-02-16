@@ -1,0 +1,21 @@
+---
+title: "Gov 1005 Final Project Milestone 2"
+author: "Michael Wu"
+date: "2/15/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Discussing the Pros and Cons of two final projects from prior year's classes.
+
+### Hannah Valencia: Analysis of Queen’s Music
+From Class of Fall 2019 
+
+
+
+### Ryan Graff: NBA Statistical Trade Machine
+From Class of Fall 2019 
+
